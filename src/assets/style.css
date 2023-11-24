@@ -1,0 +1,434 @@
+.flight-image {
+    width: 50px;
+    height: 50px;
+    background: url('../assets/images/airlines-logo-50px.svg') no-repeat;
+    background-position: -100px -200px;
+    display: inline-block;
+    cursor: pointer;
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute */
+}
+
+.flight-image.i-xy {
+    background-position: -150px -200px
+}
+
+.flight-image.i-xy {
+    background-position: -150px -200px
+}
+
+.flight-image.i-aa {
+    background-position: 0 0
+}
+
+.flight-image.i-ab {
+    background-position: -50px 0
+}
+
+.flight-image.i-ac {
+    background-position: -100px 0
+}
+
+.flight-image.i-af {
+    background-position: -150px 0
+}
+
+.flight-image.i-ai {
+    background-position: -200px 0
+}
+
+.flight-image.i-am {
+    background-position: -250px 0
+}
+
+.flight-image.i-at {
+    background-position: -300px 0
+}
+
+.flight-image.i-az {
+    background-position: -350px 0
+}
+
+.flight-image.i-a3 {
+    background-position: -400px 0
+}
+
+.flight-image.i-ba {
+    background-position: -450px 0
+}
+
+.flight-image.i-bg {
+    background-position: -500px 0
+}
+
+.flight-image.i-ca {
+    background-position: -550px 0
+}
+
+.flight-image.i-cx {
+    background-position: -600px 0
+}
+
+.flight-image.i-cz {
+    background-position: -650px 0
+}
+
+.flight-image.i-dl {
+    background-position: -700px 0
+}
+
+.flight-image.i-dt {
+    background-position: -750px 0
+}
+
+.flight-image.i-ek {
+    background-position: -800px 0
+}
+
+.flight-image.i-et {
+    background-position: -850px 0
+}
+
+.flight-image.i-b8 {
+    background-position: -850px 0
+}
+
+.flight-image.i-ey {
+    background-position: 0 -50px
+}
+
+.flight-image.i-fi {
+    background-position: -50px -50px
+}
+
+.flight-image.i-fz {
+    background-position: -100px -50px
+}
+
+.flight-image.i-ga {
+    background-position: -150px -50px
+}
+
+.flight-image.i-gf {
+    background-position: -200px -50px
+}
+
+.flight-image.i-gp {
+    background-position: -250px -50px
+}
+
+.flight-image.i-hm {
+    background-position: -300px -50px
+}
+
+.flight-image.i-hr {
+    background-position: -350px -50px
+}
+
+.flight-image.i-j9 {
+    background-position: -400px -50px
+}
+
+.flight-image.i-ke {
+    background-position: -450px -50px
+}
+
+.flight-image.i-kk {
+    background-position: -500px -50px
+}
+
+.flight-image.i-kl {
+    background-position: -550px -50px
+}
+
+.flight-image.i-kq {
+    background-position: -600px -50px
+}
+
+.flight-image.i-ku {
+    background-position: -650px -50px
+}
+
+.flight-image.i-lh {
+    background-position: -700px -50px
+}
+
+.flight-image.i-lx {
+    background-position: -750px -50px
+}
+
+.flight-image.i-md {
+    background-position: -800px -50px
+}
+
+.flight-image.i-me {
+    background-position: -850px -50px
+}
+
+.flight-image.i-mh {
+    background-position: 0 -100px
+}
+
+.flight-image.i-mk {
+    background-position: -50px -100px
+}
+
+.flight-image.i-ms {
+    background-position: -100px -100px
+}
+
+.flight-image.i-np {
+    background-position: -200px -100px
+}
+
+.flight-image.i-nx {
+    background-position: -250px -100px
+}
+
+.flight-image.i-ok {
+    background-position: -300px -100px
+}
+
+.flight-image.i-pc {
+    background-position: -350px -100px
+}
+
+.flight-image.i-pk {
+    background-position: -400px -100px
+}
+
+.flight-image.i-pr {
+    background-position: -450px -100px
+}
+
+.flight-image.i-ps {
+    background-position: -500px -100px
+}
+
+.flight-image.i-qf {
+    background-position: -550px -100px
+}
+
+.flight-image.i-qr {
+    background-position: -600px -100px
+}
+
+.flight-image.i-rj {
+    background-position: -650px -100px
+}
+
+.flight-image.i-r5 {
+    background-position: -700px -100px
+}
+
+.flight-image.i-sa {
+    background-position: -750px -100px
+}
+
+.flight-image.i-sd {
+    background-position: -800px -100px
+}
+
+.flight-image.i-sk {
+    background-position: -850px -100px
+}
+
+.flight-image.i-sm {
+    background-position: 0 -150px
+}
+
+.flight-image.i-sq {
+    background-position: -50px -150px
+}
+
+.flight-image.i-su {
+    background-position: -100px -150px
+}
+
+.flight-image.i-sv {
+    background-position: -150px -150px
+}
+
+.flight-image.i-sz {
+    background-position: -200px -150px
+}
+
+.flight-image.i-tk {
+    background-position: -250px -150px
+}
+
+.flight-image.i-tp {
+    background-position: -300px -150px
+}
+
+.flight-image.i-ua {
+    background-position: -350px -150px
+}
+
+.flight-image.i-uj {
+    background-position: -400px -150px
+}
+
+.flight-image.i-uk {
+    background-position: -450px -150px
+}
+
+.flight-image.i-ul {
+    background-position: -500px -150px
+}
+
+.flight-image.i-ux {
+    background-position: -550px -150px
+}
+
+.flight-image.i-va {
+    background-position: -600px -150px
+}
+
+.flight-image.i-tu {
+    background-position: -100px -250px
+}
+
+.flight-image.i-vl {
+    background: url(../images/svg/VL.png) no-repeat;
+    background-position: 0 0
+}
+
+.flight-image.i-vs {
+    background-position: -700px -150px
+}
+
+.flight-image.i-4j {
+    background-position: -750px -150px
+}
+
+.flight-image.i-6s {
+    background: url(../images/svg/6S.png) no-repeat;
+    background-position: 0 0
+}
+
+.flight-image.i-8q {
+    background-position: -850px -150px
+}
+
+.flight-image.i-8u {
+    background-position: 0 -200px
+}
+
+.flight-image.i-9w {
+    background-position: -50px -200px
+}
+
+.flight-image.i-00 {
+    background-position: -100px -200px
+}
+
+.flight-image.i-xy {
+    background-position: -150px -200px
+}
+
+.flight-image.i-bi {
+    background-position: -200px -200px
+}
+
+.flight-image.i-3k {
+    background-position: -250px -200px
+}
+
+.flight-image.i-ka {
+    background-position: -300px -200px
+}
+
+.flight-image.i-ne {
+    background-position: -450px -200px
+}
+
+.flight-image.i-na {
+    background-position: -450px -200px
+}
+
+.flight-image.i-wy {
+    background-position: -350px -200px
+}
+
+.flight-image.i-hf {
+    background-position: -400px -200px
+}
+
+.flight-image.i-tg {
+    background-position: -500px -200px
+}
+
+.flight-image.i-oz {
+    background-position: -550px -200px
+}
+
+.flight-image.i-ci {
+    background-position: -600px -200px
+}
+
+.flight-image.i-mf {
+    background-position: -650px -200px
+}
+
+.flight-image.i-vn {
+    background-position: -700px -200px
+}
+
+.flight-image.i-2j {
+    background-position: -750px -200px
+}
+
+.flight-image.i-h9 {
+    background-position: -800px -200px
+}
+
+.flight-image.i-j2 {
+    background-position: -850px -200px
+}
+
+.flight-image.i-w2 {
+    background-position: 0 -250px
+}
+
+.flight-image.i-tr {
+    background-position: -50px -250px
+}
+
+.flight-image.i-f3 {
+    background-position: -250px -250px
+}
+
+.flight-image.i-bs {
+    background-position: -300px -250px
+}
+
+.flight-image.i-bs {
+    background-position: -300px -250px
+}
+
+.flight-image.i-dq {
+    background-position: -350px -250px
+}
+
+.flight-image.i-er {
+    background-position: -400px -250px
+}
+
+.flight-image.i-ra {
+    background-position: -450px -250px
+}
+
+.flight-image.i-tc {
+    background-position: -500px -250px
+}
+
+.flight-image.i-g9 {
+    background-position: -550px -250px
+}
+
+.flight-image.i-wb {
+    background-position: -600px -250px
+}

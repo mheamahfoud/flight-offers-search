@@ -1,0 +1,35 @@
+.flight-hole::before {
+    content: "";
+    display: block;
+    position: absolute;
+    background-color: #e4f0fe;
+    border-radius: 100%;
+    width: 2em;
+    height: 2em;
+    bottom: 0;
+    transform: translate(50%,100%);
+}
+
+.flight-hole::after {
+    content: "";
+    display: block;
+    position: absolute;
+    background-color:  #e4f0fe;
+    border-radius: 100%;
+    width: 2em;
+    height: 2em;
+    top: 0;
+    z-index: 1;
+    transform: translate(50%,-100%);
+}
+
+.im-icon {
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    line-height: 60px;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    background-color: #fff;
+}
